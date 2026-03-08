@@ -3,6 +3,7 @@
 Este proyecto aplica técnicas de Ciencia de Datos y Machine Learning para identificar factores críticos que influyen en la cancelación de clientes (Churn) en una empresa de telecomunicaciones, proponiendo estrategias basadas en evidencia para mejorar la retención.
 
 📋 Resumen del Proyecto
+
 El objetivo principal fue construir un modelo predictivo capaz de clasificar a los clientes con alta probabilidad de fuga. Se realizó un análisis exhaustivo desde la limpieza de datos hasta la evaluación de modelos de clasificación.
 
 🛠️ Tecnologías Utilizadas
