@@ -1,4 +1,5 @@
 📡 Telecom X: Predicción de Churn y Retención de Clientes
+
 Este proyecto aplica técnicas de Ciencia de Datos y Machine Learning para identificar factores críticos que influyen en la cancelación de clientes (Churn) en una empresa de telecomunicaciones, proponiendo estrategias basadas en evidencia para mejorar la retención.
 
 📋 Resumen del Proyecto
